@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_91 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: V9D2TatFDJmJIiMW59wwt2qCzyRa/auuTdYYaxB8XFk=
+
+Name: res/raw/autoboot_whitelist.txt
+SHA-256-Digest: 7/YLwcfXnWzmieqqsy+aEkMBycQqJ7wwUZMMd7i7isw=
+
+Name: resources.arsc
+SHA-256-Digest: CzcWwVS5JevIsBQKSyfMrdGTaoLWs/p41Y7rsJkEnQc=
+

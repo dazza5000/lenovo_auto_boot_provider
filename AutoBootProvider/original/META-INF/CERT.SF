@@ -1,0 +1,14 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA-256-Digest-Manifest: A3rhsMkDRS9a1zqcfxJZG/pV6LzwDGnFs4NTpRnYTKo=
+Created-By: 1.0 (Android SignApk)
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 3fBROpdWfX1RWQrOJUDeAhcs4okkQok1g0MHhqPKhhA=
+
+Name: res/raw/autoboot_whitelist.txt
+SHA-256-Digest: QQD4+IMUkkicXZ9F5GPNkkdUnmXDOuVWvOc/ZYNfuVs=
+
+Name: resources.arsc
+SHA-256-Digest: L33U5QY0nXcwB6iHhCzkxGIh0j/vwl5m4sajzxTQC0g=
+
